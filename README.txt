@@ -15,7 +15,7 @@ you can use for pretty much whatever.
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
 AJ
-aj@lkn.io | @ajlkn
+8u8ujuyth | @ajlkn
 
 
 Credits:

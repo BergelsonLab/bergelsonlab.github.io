@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	galleryWidth="80%"
+	galleryHeight="80%"
+	backgroundColor="rgba(255,255,255,1)"
+	textColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/IMG_0377.jpg"
+	thumbURL="thumbs/IMG_0377.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/IMG_0377.JPG">
+    <title><![CDATA[Duke Research Computing Symposium, Jan 2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4227.jpg"
+	thumbURL="thumbs/DSC_4227.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_4227.jpg">
+    <title><![CDATA[BLAB Party, Dec 2016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_4229.jpg"
+	thumbURL="thumbs/DSC_4229.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_4229.jpg">
+    <title><![CDATA[BLAB Party, Dec 2016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_3548.jpg"
+	thumbURL="thumbs/DSC_3548.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3548.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3504.jpg"
+	thumbURL="thumbs/DSC_3504.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3504.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3511.jpg"
+	thumbURL="thumbs/DSC_3511.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3511.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3514.jpg"
+	thumbURL="thumbs/DSC_3514.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3514.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3525.jpg"
+	thumbURL="thumbs/DSC_3525.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3525.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3529.jpg"
+	thumbURL="thumbs/DSC_3529.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3529.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3536.jpg"
+	thumbURL="thumbs/DSC_3536.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3536.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3537.jpg"
+	thumbURL="thumbs/DSC_3537.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3537.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3544.jpg"
+	thumbURL="thumbs/DSC_3544.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3544.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/DSC_3560.jpg"
+	thumbURL="thumbs/DSC_3560.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/DSC_3560.jpg">
+    <title><![CDATA[Lab retreat, Oct 2016]]></title>
+    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
+  </image>
+  <image imageURL="images/IMG_1823.jpg"
+	thumbURL="thumbs/IMG_1823.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Downloads/BLAB Photos 2/IMG_1823.JPG">
+    <title><![CDATA[SEEDLingS Reunion, Nov 2016]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

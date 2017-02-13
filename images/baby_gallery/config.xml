@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showThumbsButton="false"
+	showExpandButton="false"
+	backgroundColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/07_1.jpg"
+	thumbURL="thumbs/07_1.jpg"
+	linkURL="images/07_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/07_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/07_2.jpg"
+	thumbURL="thumbs/07_2.jpg"
+	linkURL="images/07_2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/07_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14_1.jpg"
+	thumbURL="thumbs/14_1.jpg"
+	linkURL="images/14_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/14_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14_2.jpg"
+	thumbURL="thumbs/14_2.jpg"
+	linkURL="images/14_2.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/14_2.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/14_3.jpg"
+	thumbURL="thumbs/14_3.jpg"
+	linkURL="images/14_3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/14_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/19_1.jpg"
+	thumbURL="thumbs/19_1.jpg"
+	linkURL="images/19_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/19_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33_1.jpg"
+	thumbURL="thumbs/33_1.jpg"
+	linkURL="images/33_1.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/33_1.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33_3.jpg"
+	thumbURL="thumbs/33_3.jpg"
+	linkURL="images/33_3.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/33_3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
