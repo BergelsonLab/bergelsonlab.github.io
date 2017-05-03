@@ -10,24 +10,7 @@
 	backgroundColor="rgba(255,255,255,1)"
 	textColor="rgba(255,255,255,1)"
 
->
-  <image imageURL="images/lab_photo_spring_2017.jpg"
-	thumbURL="thumbs/lab_photo_spring_2017.jpg"
-	linkURL=""
-	linkTarget="_blank"
-	sourcePath="">
-    <title><![CDATA[BLAB Party, April 2017]]></title>
-    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
-  </image>
-    <image imageURL="images/lab_photo_spring_2017-2.jpg"
-	thumbURL="thumbs/lab_photo_spring_2017-2.jpg"
-	linkURL=""
-	linkTarget="_blank"
-	sourcePath="">
-    <title><![CDATA[BLAB Party, April 2017]]></title>
-    <caption><![CDATA[Photo credit: Zachary Kern]]></caption>
-  </image>
-    <image imageURL="images/IMG_0377.jpg"
+> <image imageURL="images/IMG_0377.jpg"
 	thumbURL="thumbs/IMG_0377.jpg"
 	linkURL=""
 	linkTarget="_blank"
