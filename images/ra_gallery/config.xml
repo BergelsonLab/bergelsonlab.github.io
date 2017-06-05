@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	galleryWidth="80%"
+	galleryHeight="80%"
+	backgroundColor="rgba(255,255,255,1)"
+	textColor="rgba(255,255,255,1)"
+
+>
+  <image imageURL="images/IMG_6375.jpg"
+	thumbURL="thumbs/IMG_6375.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Kelsey and Savanna showing of Duke CHILD Studies baby t-shirts]]></caption>
+  </image>
+  <image imageURL="images/IMG_1900.jpg"
+	thumbURL="thumbs/IMG_1900.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Charlotte (graduate student) and Reena learning R]]></caption>
+  </image>
+  <image imageURL="images/IMG_6370.jpg"
+	thumbURL="thumbs/IMG_6370.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Savanna and Kelsey using video annotation software]]></caption>
+  </image>
+  <image imageURL="images/IMG_6366.jpg"
+	thumbURL="thumbs/IMG_6366.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Kelsey and Savanna discussing a research poster]]></caption>
+  </image>
+  <image imageURL="images/IMG_6362.jpg"
+	thumbURL="thumbs/IMG_6362.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_1927.jpg"
+	thumbURL="thumbs/IMG_1927.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Natasha and Estelle using audio annotation software]]></caption>
+  </image>
+  <image imageURL="images/IMG_1909.jpg"
+	thumbURL="thumbs/IMG_1909.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Natasha and Estelle discussing a research article]]></caption>
+  </image>
+  <image imageURL="images/IMG_1914.jpg"
+	thumbURL="thumbs/IMG_1914.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Natasha and Estelle discussing a research article]]></caption>
+  </image>
+  <image imageURL="images/IMG_1924.jpg"
+	thumbURL="thumbs/IMG_1924.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[Natasha presenting a research article to the lab]]></caption>
+  </image>
+</juiceboxgallery>
