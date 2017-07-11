@@ -10,7 +10,40 @@
 	backgroundColor="rgba(255,255,255,1)"
 	textColor="rgba(255,255,255,1)"
 
-> <image imageURL="images/IMG_0377.jpg"
+> 
+    <image imageURL="images/IMG_0809.jpg"
+	thumbURL="thumbs/IMG_0809.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[VIP presentations, July 2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_0807.jpg"
+	thumbURL="thumbs/IMG_0807.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[VIP presentations, July 2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_0806.jpg"
+	thumbURL="thumbs/IMG_0806.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[VIP presentations, July 2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_0804.jpg"
+	thumbURL="thumbs/IMG_0804.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[VIP presentations, July 2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_0377.jpg"
 	thumbURL="thumbs/IMG_0377.jpg"
 	linkURL=""
 	linkTarget="_blank"
