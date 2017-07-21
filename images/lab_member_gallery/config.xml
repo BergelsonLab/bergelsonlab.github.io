@@ -11,7 +11,16 @@
 	textColor="rgba(255,255,255,1)"
 
 > 
-       <image imageURL="images/20170713_210144.jpg"
+    <image imageURL="images/NCSSM_symposium_2017.jpg"
+	thumbURL="thumbs/NCSSM_symposium_2017.jpg"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+    <title><![CDATA[Claire Patrick, NCSSM Summer Research Symposium, July 2017]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>   
+    
+    <image imageURL="images/20170713_210144.jpg"
 	thumbURL="thumbs/20170713_210144.jpg"
 	linkURL=""
 	linkTarget="_blank"
