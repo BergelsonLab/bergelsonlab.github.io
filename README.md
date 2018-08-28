@@ -7,9 +7,8 @@ Website for the Bergelson Lab (BLAB) at Duke University in the Department of Psy
 For instructions on updating the website, see our [“Website Updates” wiki page](https://osf.io/d9jff/wiki/Website%20updates/) (lab internal).
 
 ### Contact information
-Shannon Dailey, BLAB manager, shannon.dailey@duke.edu
-
-Andrei Amatuni, BLAB tech, andrei.amatuni@duke.edu
+Shannon Dailey, shannon.dailey@duke.edu
+Hallie Garrison, hallie.garrison@duke.edu
 
 ### Credits
 
