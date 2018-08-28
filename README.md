@@ -8,6 +8,7 @@ For instructions on updating the website, see our [“Website Updates” wiki pa
 
 ### Contact information
 Shannon Dailey, shannon.dailey@duke.edu
+
 Hallie Garrison, hallie.garrison@duke.edu
 
 ### Credits
