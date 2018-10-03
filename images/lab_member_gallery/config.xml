@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<juiceboxgallery 
+<juiceboxgallery
 
 	showOpenButton="false"
 	showExpandButton="false"
@@ -10,7 +10,45 @@
 	backgroundColor="rgba(255,255,255,1)"
 	textColor="rgba(255,255,255,1)"
 
-> 
+>
+		<image imageURL="images/IMG_4558.JPG"
+	thumbURL="thumbs/IMG_4558.JPG"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+		<title><![CDATA[Lab retreat, Oct 2017]]></title>
+			<caption><![CDATA[Photo Credit: Hallie Garrison]]></caption>
+		</image>
+
+		<image imageURL="images/IMG_4526.JPG"
+	thumbURL="thumbs/IMG_4526.JPG"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+		<title><![CDATA[Lab retreat, Oct 2017]]></title>
+			<caption><![CDATA[Photo Credit: Hallie Garrison]]></caption>
+	</image>
+
+
+		<image imageURL="images/lab_photo_spring_2017.JPG"
+	thumbURL="thumbs/lab_photo_spring_2017.JPG"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+		<title><![CDATA[Lab party, Spring 2017]]></title>
+		<caption><![CDATA[Photo Credit: Zachary Kern]]></caption>
+	</image>
+
+	<image imageURL="images/lab_photo_spring_2017-2.JPG"
+thumbURL="thumbs/lab_photo_spring_2017-2.JPG"
+linkURL=""
+linkTarget="_blank"
+sourcePath="">
+	<title><![CDATA[Lab party, Spring 2017]]></title>
+	<caption><![CDATA[Photo Credit: Zachary Kern]]></caption>
+</image>
+
+
     <image imageURL="images/NCSSM_symposium_2017.jpg"
 	thumbURL="thumbs/NCSSM_symposium_2017.jpg"
 	linkURL=""
@@ -18,8 +56,8 @@
 	sourcePath="">
     <title><![CDATA[Claire Patrick, NCSSM Summer Research Symposium, July 2017]]></title>
     <caption><![CDATA[]]></caption>
-  </image>   
-    
+  </image>
+
     <image imageURL="images/20170713_210144.jpg"
 	thumbURL="thumbs/20170713_210144.jpg"
 	linkURL=""
@@ -28,7 +66,7 @@
     <title><![CDATA[Catherine's leaving do, July 2017]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-    
+
     <image imageURL="images/20170713_145806.jpg"
 	thumbURL="thumbs/20170713_145806.jpg"
 	linkURL=""
@@ -37,7 +75,7 @@
     <title><![CDATA[Reena Jasani, VIP poster session, July 2017]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-    
+
     <image imageURL="images/20170713_145000.jpg"
 	thumbURL="thumbs/20170713_145000.jpg"
 	linkURL=""
@@ -46,7 +84,7 @@
     <title><![CDATA[Estelle He, VIP poster session, July 2017]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-    
+
     <image imageURL="images/VIP_summer17_3.jpg"
 	thumbURL="thumbs/VIP_summer17_3.jpg"
 	linkURL=""
