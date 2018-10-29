@@ -11,6 +11,17 @@
 	textColor="rgba(255,255,255,1)"
 
 >
+
+		<image imageURL="images/IMG_2505.JPG"
+	thumbURL="thumbs/IMG_2505thumb.JPG"
+	linkURL=""
+	linkTarget="_blank"
+	sourcePath="">
+		<title><![CDATA[Lab retreat, Oct 2018]]></title>
+			<caption><![CDATA[]]></caption>
+	</image>
+
+
 		<image imageURL="images/IMG_4558.JPG"
 	thumbURL="thumbs/IMG_4558.JPG"
 	linkURL=""
