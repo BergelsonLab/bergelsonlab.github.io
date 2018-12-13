@@ -4,7 +4,7 @@
 Website for the Bergelson Lab (BLAB) at Duke University in the Department of Psychology and Neuroscience
 
 ### How to update
-For instructions on updating the website, see our [“Website Updates” wiki page](https://osf.io/d9jff/wiki/Website%20updates/) (lab internal).
+For instructions on updating the website, see our [“Website Updates” wiki page](https://bergelsonlab.gitbook.io/project/website-updates) (lab internal).
 
 ### Contact information
 Shannon Dailey, shannon.dailey@duke.edu
