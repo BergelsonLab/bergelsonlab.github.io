@@ -1224,6 +1224,7 @@ header > p {
 	display: block;
 	width: 100%;
 	margin: 0 0 2em 0;
+	height: 165;
 }
 
 .image.left {
@@ -1239,6 +1240,11 @@ header > p {
 .image.centered img {
 	margin: 0 auto;
 	width: auto;
+}
+
+img.hightlightBaby {
+	height: 200px;
+	width: 200px;
 }
 
 /* Button */
