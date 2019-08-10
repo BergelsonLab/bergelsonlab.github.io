@@ -28,6 +28,8 @@ body {
 
 ul {
 	list-style-type:disc;
+    display: inline-block;
+    text-align: left;
 }
 
 blockquote, q {
