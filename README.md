@@ -1,10 +1,10 @@
-# bergelsonlab.com
+# [bergelsonlab.com](https://bergelsonlab.com)
 
 ### Description
 Website for the Bergelson Lab (BLAB) at Duke University in the Department of Psychology and Neuroscience
 
 ### How to update
-For instructions on updating the website, see our [“Website Updates” wiki page](https://bergelsonlab.gitbook.io/project/website-updates) (lab internal).
+For instructions on updating the website, see our [“Website Updates” wiki page](https://bergelsonlab.gitbook.io/blab/labman/website-updates).
 
 ### Contact information
 Shannon Dailey, shannon.dailey@duke.edu
