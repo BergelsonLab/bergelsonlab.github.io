@@ -58,10 +58,11 @@
 		// Off-Canvas Navigation.
 
 			// Title Bar.
+				var navPanelTitle = $('#logo').html() || "Bergelson Lab";
 				$(
 					'<div id="titleBar">' +
 						'<a href="#navPanel" class="toggle"></a>' +
-						'<span class="title">' + $('#logo').html() + '</span>' +
+						'<span class="title">' + navPanelTitle + '</span>' +
 					'</div>'
 				)
 					.appendTo($body);
