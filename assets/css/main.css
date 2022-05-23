@@ -9,7 +9,17 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 /* Reset */
 
-html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+html, body, div, span, applet, object,
+iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b,
+u, i, center, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody,
+tfoot, thead, tr, th, td, article, aside,
+canvas, details, embed, figure, figcaption,
+footer, header, hgroup, menu, nav, output, ruby,
+section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -44,6 +54,7 @@ blockquote:before, blockquote:after, q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	margin: 0 auto 0 auto;
 }
 
 
@@ -62,8 +73,9 @@ body {
 /* Containers */
 
 .container {
-	margin-left: auto;
-	margin-right: auto;
+	margin: 0 auto;
+	max-width: 100%;
+	width: 64em;
 }
 
 .container.\31 25\25 {
@@ -1244,9 +1256,11 @@ header > p {
 	width: auto;
 }
 
-img.hightlightBaby {
+img.highlightBaby {
 	height: 200px;
 	width: 200px;
+	margin: 0 0 0 -1em;
+	display: block;
 }
 
 /* Button */
@@ -1592,6 +1606,7 @@ form ::-moz-focus-inner {
 
 table {
 	width: 100%;
+	text-align: center;
 }
 
 table.default {
@@ -1607,7 +1622,7 @@ table.default tr:first-child {
 }
 
 table.default td {
-	padding: 2em 1em 2em 1em;
+	padding: 0;
 }
 
 table.default th {
@@ -1679,6 +1694,7 @@ tr, td {
 	background: #fff;
 	border-top: solid 5px #b1ddab;
 	border-bottom: solid 5px #c1cac5;
+	margin: 0 auto;
 }
 
 /* Banner */
