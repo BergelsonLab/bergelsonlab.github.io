@@ -2696,3 +2696,26 @@ tr, td {
 	}
 
 }
+
+/* Alert box on the front page below the photos */
+
+.alert-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100px;
+  width: 100%;
+  border: 2px dashed #f69c55;
+}
+
+.alert-box .badge {
+	background-color: #f58f2a;
+	border-radius: 3px;
+	color: #fff;
+	margin-left: 4px;
+	margin-right: 4px;
+	padding: 3px 5px 3px 4px;
+	font-weight:bold;
+	text-transform: uppercase;
+	width: fit-content;
+}
