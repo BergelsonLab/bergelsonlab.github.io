@@ -1,15 +1,14 @@
 # [bergelsonlab.com](https://bergelsonlab.com)
 
 ### Description
-Website for the Bergelson Lab (BLAB) at Duke University in the Department of Psychology and Neuroscience
+Website for the Bergelson Lab (BLAB) at Harvard University in the Department of Psychology
 
 ### How to update
 For instructions on updating the website, see our [“Website Updates” wiki page](https://bergelsonlab.gitbook.io/blab/labman/website-updates).
 
 ### Contact information
-Shannon Dailey, shannon.dailey@duke.edu
-
-Hallie Garrison, hallie.garrison@duke.edu
+Lilli Righter, lab manager, larighter@fas.harvard.edu
+Zhenya Kalenkovich, lab technician, zhenya_kalenkovich@fas.harvard.edu
 
 ### Credits
 
