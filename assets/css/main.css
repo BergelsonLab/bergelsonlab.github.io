@@ -1216,6 +1216,7 @@ header > p {
 	display: block;
 	width: 100%;
 	border-radius: 8px;
+	object-fit: contain;
 }
 
 .image:before {
@@ -1238,7 +1239,7 @@ header > p {
 	display: block;
 	width: 100%;
 	margin: 0 0 2em 0;
-	height: 165;
+	height: 165px;
 }
 
 .image.left {
