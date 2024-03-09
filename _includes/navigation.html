@@ -1,0 +1,71 @@
+<nav id="nav">
+    <ul>
+        <!-- Home -->
+        {% if page.group == "Home" %}
+        <li class="current">
+            {% else %}
+        <li>
+            {% endif %}
+            <a href="index.html">Home</a>
+        </li>
+
+
+        <!-- Research -->
+        {% if page.group == "Research" %}
+        <li class="current">
+            {% else %}
+        <li>
+            {% endif %}
+            <a>Research</a>
+            <ul>
+                <li><a href="studies.html">Current Studies</a></li>
+                <li><a href="seedlings/index.html">SEEDLingS</a></li>
+                <li><a href="methods.html">Methods &amp; Documentation</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="presentations.html">Posters &amp; Presentations</a></li>
+            </ul>
+        </li>
+
+        <!-- People -->
+        {% if page.group == "People" %}
+        <li class="current">
+            {% else %}
+        <li>
+            {% endif %}
+        <li><a href="people.html">People</a></li>
+        <li>
+            <a>Media</a>
+            <ul>
+                <li><a href="photos.html">Photos</a></li>
+                <li><a href="newsletter.html">Newsletter</a></li>
+            </ul>
+        </li>
+
+        <!-- News -->
+        {% if page.group == "News" %}
+        <li class="current">
+            {% else %}
+        <li>
+            {% endif %}
+            <a>News</a>
+            <ul>
+                <li><a href="news.html">BLAB News</a></li>
+                <li><a href="in_the_news.html">BLAB In The News</a></li>
+            </ul>
+        </li>
+
+        <!-- Join us -->
+        {% if page.group == "Join us" %}
+        <li class="current">
+            {% else %}
+        <li>
+            {% endif %}
+            <a>Join Us</a>
+            <ul>
+                <li><a href="directions.html">Directions to Lab</a></li>
+                <li><a href="families.html">Families</a></li>
+                <li><a href="students.html">Prospective Students, Staff, and Post-docs</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
