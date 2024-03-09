@@ -1,0 +1,41 @@
+- title: Home
+  href: index.html
+
+- title: Research
+  sublinks:
+    - title: Current Studies
+      href: studies.html
+    - title: SEEDLingS
+      href: seedlings/index.html
+    - title: Methods & Documentation
+      href: methods.html
+    - title: Publications
+      href: publications.html
+    - title: Posters & Presentations
+      href: presentations.html
+
+- title: People
+  href: people.html
+
+- title: Media
+  sublinks:
+    - title: Photos
+      href: photos.html
+    - title: Newsletter
+      href: newsletter.html
+
+- title: News
+  sublinks:
+    - title: BLAB News
+      href: news.html
+    - title: BLAB In The News
+      href: in_the_news.html
+
+- title: Join Us
+  sublinks:
+    - title: Directions to Lab
+      href: directions.html
+    - title: Families
+      href: families.html
+    - title: Prospective Students, Staff, and Post-docs
+      href: students.html
