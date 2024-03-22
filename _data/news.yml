@@ -1,3 +1,15 @@
+# - Add new news items at the top.
+# - Single-quote the description and the title. Escape single quotes in text by doubling them, e.g.,
+#     title: 'Wouldn''t it be lovely if we didn''t have to escape single quotes?'
+# - Use markdown, not html:
+#   - **bold**
+#   - [link-text](link-url.com)
+# - You can break long lines but make sure the second and further lines are indented by extra 2 spaces. More generally,
+#   here is what you can do to make sure your YAML is correct as it is quite sensitive to formatting errors:
+#   - Use an editor with YAML support.
+#   - Use https://www.yamllint.com/ to check your YAML (you can check just the item you added generally).
+#   - Read more about multiline strings in YAML: https://yaml-multiline.info/.
+
 - date: 10/23
   description: '**Erin Campbell, PhD,** lab manager **Lilli Righter** , and grad student
   **Genia Lukin** head to MPAL 2023 to share two posters and a talk on blind children''s
