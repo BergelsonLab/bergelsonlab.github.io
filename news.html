@@ -34,7 +34,7 @@ group: News
       <a class="image featured"><img src="{{ item.image }}" height="165"></a>
       <h3>{{ item.title }}</h3>
       <ul class="meta"><li class="icon fa-clock-o">{{ item.date }}</li></ul>
-      <p>{{ item.description }}</p>
+      <p>{{ item.description | markdownify }}</p>
     </div>
 
     <!-- Since we close rows, when we start a new one, the last row needs to be close separately -->

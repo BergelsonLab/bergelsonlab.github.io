@@ -1,119 +1,503 @@
-- title: "Blabbers at MPAL and BUCLD"
-  date: "10/23"
-  image: "images/ECLRGL.png"
-  description: "Erin Campbell, PhD, lab manager Lilli Righter, and grad student Genia Lukin head to MPAL 2023 to share two posters and a talk on blind children's early language. Also catch Genia and Erin at BUCLD 48 in November!"
+- date: 10/23
+  description: '**Erin Campbell, PhD,** lab manager **Lilli Righter** , and grad student
+  **Genia Lukin** head to MPAL 2023 to share two posters and a talk on blind children''s
+    early language. Also catch Genia and Erin at BUCLD 48 in November!'
+  image: images/ECLRGL.png
+  title: Blabbers at MPAL and BUCLD
 
-- title: "Dr. B speaking at SLD"
-  date: "11/02/23"
-  image: "images/sld.jpeg"
-  description: "PI Elika Bergelson, PhD will be giving a talk as part of the Society for Language Development Symposium on November 2. The topic of the symposium is 'The effects of poverty on language, cognition, and brain development.'"
+- date: 11/02/23
+  description: PI **Elika Bergelson, PhD** will be giving a talk as part of the Society
+    for Language Development Symposium on November 2. The topic of the symposium is
+    "The effects of poverty on language, cognition, and brain development."
+  image: images/sld.jpeg
+  title: Dr. B speaking at SLD
 
-- title: "BLAB moves to Harvard"
-  date: "07/01/23"
-  image: "images/LDS_logo.png"
-  description: "The Bergelson Lab has moved! We are now a part of the Laboratory for Developmental Studies in the Psychology Department at Harvard University. We'll miss you, Durham! Hello Cambridge!"
+- date: 07/01/23
+  description: The Bergelson Lab has moved! We are now a part of the Laboratory for
+    Developmental Studies in the Psychology Department at Harvard University. We'll
+    miss you, Durham! Hello Cambridge!
+  image: images/LDS_logo.png
+  title: BLAB moves to Harvard
 
-- title: "Congratulations, Dr. Campbell!"
-  date: "06/14/23"
-  image: "images/erin_doc.jpeg"
-  description: "The newest BLAB PhD just defended! Dr. Erin Campbell presented a stunning dissertation on language acquisition and the senses, including language development in blind and deaf children. Erin is off to Boston University, where she will work as a postdoc with Dr. Naomi Caselli and Dr. Amy Lieberman."
+- date: 06/14/23
+  description: The newest BLAB PhD just defended! **Dr. Erin Campbell** presented
+    a stunning dissertation on language acquisition and the senses, including language
+    development in blind and deaf children. Erin is off to Boston University, where
+    she will work as a postdoc with Dr. Naomi Caselli and Dr. Amy Lieberman.
+  image: images/erin_doc.jpeg
+  title: Congratulations, Dr. Campbell!
 
-- title: "Grant to Dr. Bergelson"
-  date: "12/01/22"
-  image: "images/nih.jpeg"
-  description: "Elika Bergelson, PhD received an NIH R01 grant to study how social, cognitive, and linguistic skills contribute to word learning in the second year of life. We are excited to start work on new projects! Congratulations, Dr. B!"
+- date: 12/02/22
+  description: '**Shannon Dailey, PhD** and PI **Elika Bergelson, PhD** recently published
+    a [paper](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/cdev.13872) in
+    Child Development which provides evidence that parents'' language input doesn''t
+    differ between girls and boys, but that parents talk more to infants who have
+    themselves begun talking.'
+  image: images/child_dev.png
+  title: New Paper out on Gender and Vocabulary
 
-- title: "BLAB alum awarded a grant"
-  date: "11/22/22"
-  image: "images/laing_2022.jpeg"
-  description: "BLAB alum Catherine Laing, PhD, current professor at the University of York, has been awarded a grant from the European Research Council to study infants' tongue movements, vocal tract development, and speech sounds. Congratulations, Dr. Laing! Read more about the project here."
+- date: 12/01/22
+  description: PI **Elika Bergelson, PhD** received an NIH R01 grant to study how
+    social, cognitive, and linguistic skills contribute to word learning in the second
+    year of life. We are excited to start work on new projects! Congratulations, Dr.
+    B!
+  image: images/nih.jpeg
+  title: Grant to Dr. Bergelson
 
-- title: "New Lab Members"
-  date: "9/01/22"
-  image: "images/black-lab-pups.jpeg"
-  description: "This fall, the BLAB welcomed new post-docs Charles Davis and Jasenia Hartman, new PhD student Genia Lukin, and new CNAP rotational PhD student Kristen Gilyard."
+- date: 11/22/22
+  description: BLAB alum **Catherine Laing, PhD** , current professor at the University
+    of York, has been awarded a grant from the European Research Council to study
+    infants' tongue movements, vocal tract development, and speech sounds. Congratulations,
+    Dr. Laing! Read more about the project [here](https://www.york.ac.uk/news-and-events/news/2022/research/tongue-movement-in-babies-silent-language-practice/)
+    .
+  image: images/laing_2022.jpeg
+  title: BLAB alum awarded a grant
 
-- title: "Congrats, Dr. Dailey!"
-  date: "3/14/22"
-  image: "images/Shannon_hood.jpeg"
-  description: "Shannon Dailey, PhD successfully defended her dissertation on the role of language input in children's language development, after many years in the BLAB: first as lab manager and then as a PhD student. She will continue her work as a postdoc in the Sanford School of Public Policy at Duke!"
+- date: 9/01/22
+  description: This fall, the BLAB welcomed new post-docs **Charles Davis** and **Jasenia
+    Hartman** , new PhD student **Genia Lukin** , and new [CNAP](https://dibs.duke.edu/education/graduate/cognitive-neuroscience-admitting-program/)
+    rotational PhD student **Kristen Gilyard** .
+  image: images/black-lab-pups.jpeg
+  title: New Lab Members
 
-- title: "Jing wins thesis award"
-  date: "1/20/22"
-  image: "images/Jing_thesis.png"
-  description: "Jingxuan Liu '22 received the 2022 Jerome Bruner Thesis Award for Excellence in Undergraduate Research for her work focusing on adults' perception of mispronunciation."
+- date: 3/14/22
+  description: '**Shannon Dailey, PhD** successfully defended her dissertation on
+    the role of language input in children''s language development, after many years
+    in the BLAB: first as lab manager and then as a PhD student. She will continue
+    her work as a postdoc in the Sanford School of Public Policy at Duke!'
+  image: images/Shannon_hood.jpeg
+  title: Congrats, Dr. Dailey!
 
-- title: "Newly-minted Dr. Charlotte Moore"
-  date: "7/20/21"
-  image: "images/CharDefense.jpg"
-  description: "Charlotte Moore, PhD has become the first-ever PhD recipient from the BLAB, following the successful defense of her dissertation, 'Variable wordforms, adaptable learners: Evidence from real-time word comprehension and naturalistic corpora.' She continues to Concordia University for a postdoctoral research position with Dr. Krista Byers-Heinlein."
+- date: 1/20/22
+  description: '**Jingxuan Liu ''22** received the 2022 Jerome Bruner Thesis Award
+    for Excellence in Undergraduate Research for her work focusing on adults'' perception
+    of mispronunciation.'
+  image: images/Jing_thesis.png
+  title: Jing wins thesis award
 
-- title: "Summer Research Fellowship"
-  date: "1/22/21"
-  image: "images/dailey-news.jpg"
-  description: "PhD student Shannon Dailey has received the competitive Summer Research Fellowship from the Duke Graduate School."
+- date: 7/20/21
+  description: '**Charlotte Moore, PhD** has become the first-ever PhD recipient from
+    the BLAB, following the successful defense of her dissertation, "Variable wordforms,
+    adaptable learners: Evidence from real-time word comprehension and naturalistic
+    corpora." She continues to Concordia University for a postdoctoral research position
+    with Dr. Krista Byers-Heinlein.'
+  image: images/CharDefense.jpg
+  title: Newly-minted Dr. Charlotte Moore
 
-- title: "Welcome, Lilli!"
-  date: "8/31/20"
-  image: "images/baby_labs3.jpg"
-  description: "The BLAB welcomes incoming lab manager Lillianna Righter, recent graduate of the University of Maryland."
+- date: 1/22/21
+  description: PhD student **Shannon Dailey** has received the competitive Summer
+    Research Fellowship from the Duke Graduate School.
+  image: images/dailey-news.jpg
+  title: Summer Research Fellowship
 
-- title: "VIP Summer 2019"
-  date: "7/11/19"
-  image: "images/vip_sarah_2019.jpg"
-  description: "Undergrad Sarah Yang completed a summer research project through the Summer Neuroscience Program (VIP), mentored by PI Dr. Elika Bergelson and graduate students Shannon Dailey and Charlotte Moore. She gave a talk and poster presentation about her eyetracking work."
+- date: 8/31/20
+  description: The BLAB welcomes incoming lab manager **Lillianna Righter** , recent
+    graduate of the University of Maryland.
+  image: images/baby_labs3.jpg
+  title: Welcome, Lilli!
 
-- title: "BLAB Welcomes New Members"
-  date: "7/3/2019"
-  image: "images/baby_labs2.jpeg"
-  description: "Dr. Carla Fernandez will be jointly mentored by the BLAB and the Woldorff Lab at Duke as a post-doctoral researcher. The BLAB also welcomes Irene Tang, new lab manager, and Sarp Uner, new lab technician."
+- date: 8/1/20
+  description: BLAB graduate student **Charlotte Moore** will be giving a talk at
+    this fall's Boston University Conference on Language Development and BLAB postdoc
+    Federica Bulgarelli will be presenting a poster. Charlotte also received a Paula
+    Menyuk Award for her abstract titled "Testing the roles of regularity and lexical
+    class on toddlers’ spoken word recognition."
+  image: images/bucld_2.png
+  title: BLAB to participate in BUCLD Remote Conference
 
-- title: "BLAB at BUCLD 2019"
-  date: "7/1/2019"
-  image: "images/bucld.jpeg"
-  description: "BLAB members will be presenting two talks and two posters at BUCLD 2019 this November."
+- date: 8/1/20
+  description: In October, BLAB graduate student **Erin Campbell** will present at
+    the Many Paths to Language Conference, organized by the Max Planck Institute for
+    Psycholinguistics.
+  image: images/mpal.png
+  title: Erin to present at Many Paths to Language Conference
 
-- title: "CAREER Award"
-  date: "5/17/2019"
-  image: "images/NSF_career.jpg"
-  description: "Elika Bergelson received an NSF CAREER award to study language development in blind infants and deaf infants. Congratulations, Dr. Bergelson!"
+- date: 7/31/20
+  description: BLAB postdoc **Federica Bulgarelli** was awarded a grant from the Charles
+    Lafitte Foundation Program for Research in Psychology & Neuroscience to recruit
+    bilingual babies from the Triangle area to participate in our lab's studies.
+  image: images/clf.jpeg
+  title: Federica receives Lafitte grant
 
-- title: "Workshop on Infant Language Development"
-  date: "4/10/2019"
-  image: "images/WILD2019.jpg"
-  description: "Graduate student Charlotte Moore and PI Elika Bergelson will be presenting a talk titled '18-month-olds' representations of vowels in regular & irregular verbs: A mispronunciation study' in Potsdam, Germany in June."
+- date: 7/6/20
+  description: '**Elika Bergelson** was the recipient of this year''s Distinguished
+    Early Career Contribution Award from the International Congress of Infant Studies.
+    Congrats, Dr. B!'
+  image: images/icis.png
+  title: Dr. Bergelson wins ICIS award
 
-- title: "GRFP Award"
-  date: "4/9/2019"
-  image: "images/nsfgradfellowship.jpg"
-  description: "Graduate student Erin Campbell is now a fellow in the NSF Graduate Research Fellowship Program. Go, Erin!"
+- date: 5/10/20
+  description: Three seniors are leaving the BLAB; Farewll **Jessica** , **Sarah**
+    , and **Junette** ! We are all proud of you and we will all miss everything you
+    brought to the lab!
+  image: images/duke.jpg
+  title: Farewell to our graduates!
 
-- title: "Congratulations, Munna!"
-  date: "11/27/2018"
-  image: "images/munna-koorathota.jpg"
-  description: "Former Bergelson Lab/Seedlings staff member Sharath (Munna) Koorathota is starting a Master's degree in computer science at Columbia University, specializing in AI and Machine Learning. Congrats, Munna!"
+- date: 5/4/20
+  description: 'Congratulations to research assistant **Natasha Derezinski-Choo**
+    ''18 for winning a Fulbright! Natasha will work in Cameroon on the project "Many
+    Medicines and Many Languages: The Sociolinguistic Underpinnings of Medical Pluralism."'
+  image: images/fulbright.jpg
+  title: Natasha wins a fulbright
 
-- title: "4 BLAB members received travel awards for BUCLD"
-  date: "10/22/2018"
-  image: "images/bucld2018funding.jpg"
-  description: "Dr. Federica Bulgarelli and Shannon Dailey received the Paula Menyuk Travel Award, Shannon received the Society for Language Development student award, and undergraduate RAs Sarah Yang and Katya Khlystova received departmental travel awards!"
+- date: 5/4/20
+  description: Congratulations to research assistant **Jessica Marlow** '20 for winning
+    a Fulbright! Jessica will pursue a full-time international Master's of Science
+    in Global Health at National Taiwan University, the most comprehensive university
+    and the foremost research institution in Taiwan.
+  image: images/fulbright.jpg
+  title: Jessica wins a fulbright
 
-- title: "BLAB presentations at BUCLD"
-  date: "10/22/2018"
-  image: "images/bucld.jpeg"
-  description: "Look out for the BLAB at BUCLD 2018! 9 BLAB members will be in attendance, Dr. Federica Bulgarelli and Shannon Dailey will be giving talks, and Dr. Elika Bergelson will be presenting a poster."
+- date: 4/20/20
+  description: The BLAB is proud to announce that Ph.D. candiate **Shannon Dailey**
+    has completed her MAP. Well done Shannon!
+  image: images/dailey-news.jpg
+  title: Shannon Completes her MAP
 
-- title: "BLAB welcomes two post-docs and a new lab tech"
-  date: "8/22/2018"
-  image: "images/baby_labs.jpg"
-  description: "Dr. Federica Bulgarelli and Dr. Stephan Meylan are joining the BLAB as post-doctoral researchers this fall. The BLAB also welcomes Gladys Baudet, who will work as our lab technician."
+- date: 4/15/20
+  description: The BLAB is proud to announce that our research assistant **Sarah Yang**
+    '20 has graduated with distinction! Congratulations Sarah!
+  image: images/yang-crop.jpg
+  title: Sarah recieves a GwD
 
-- title: "BLAB at BUCLD 2018"
-  date: "7/28/2018"
-  image: "images/bucld.jpeg"
-  description: "BLAB members will be presenting two talks and a poster at BUCLD 2018 this November."
+- date: 10/01/19
+  description: Graduate student **Charlotte Moore** was awarded a travel award from
+    the Charles Lafitte Foundation to attend an R workshop on "Building Tidy Tools"
+    in Atlanta, GA on October 14–15, 2019. Congratulations, Charlotte!
+  image: images/r_workshop.jpg
+  title: Charlotte to R workshop
 
-- title: "Dr. Bergelson Named Crandall Family Assistant Professor"
-  date: "4/22/2018"
-  image: "images/bergelson_photo_cropped_300dpi.png"
-  description: "Dr. Bergelson has been named the first Crandall Family Assistant Professor by Duke’s Arts and Sciences, in conjunction with the Duke Bass Connections’ Education and Human Development Theme. Congratulations, Dr. Bergelson!"
+- date: 9/23/19
+  description: Look out for the BLAB at BUCLD 2019! **Dr. Federica Bulgarelli** will
+    be giving a talk, **Erin Campbell** and **Charlotte Moore** will be presenting
+    posters, and **Dr. Elika Bergelson** will be presenting at a symposium. 11 BLAB
+    members will be attending!
+  image: images/bucld.jpeg
+  title: BLAB Presentations at BUCLD
+
+- date: 9/16/19
+  description: The BLAB is pleased to add five new members! Welcome **Jing** , **Georgia**
+    , **Jessica** , **Madeleine** , and **Lauren** ! We look forward to a fantastic
+    year with you on our crew!
+  image: images/baby_gallery/puppies_5.jpg
+  title: Bergelson lab welcomes 5 new research assistants
+
+- date: 9/17/19
+  description: Congratulations to **Dr. Federica Bulgarelli** and research assistant
+    **Olivia Leggio** for getting travel funding from the Charles Lafitte Foundation!
+  image: images/bucld2018funding.jpg
+  title: 2 blab Members received travel awards for BUCLD
+
+- date: 8/25/19
+  description: The BLAB happily welcomes **Aahnix Bathurst** as a new Project Coordinator!
+    We're looking forward to a great year!
+  image: images/puppies_3.jpg
+  title: Bergelson Lab welcomes new Project Coordinator
+
+- date: 7/26/19
+  description: Undergrad **Junette Yu** completed a summer research project through
+    the [Summer Neuroscience Program (SNP)](https://psychandneuro.duke.edu/undergraduate/current/summer-neuroscience-program)
+    , mentored by PI **Dr. Elika Bergelson** and graduate student **Erin Campbell**
+    . She presented her EEG work at the poster session.
+  image: images/snp_junette_2019.jpg
+  title: SNP Summer 2019
+
+- date: 7/11/19
+  description: Undergrad **Sarah Yang** completed a summer research project through
+    the [Summer Neuroscience Program (VIP)](https://psychandneuro.duke.edu/summer-vertical-integration-program-vip)
+    , mentored by PI **Dr. Elika Bergelson** and graduate students **Shannon Dailey**
+    and **Charlotte Moore** . She gave a talk and poster presentation about her eyetracking
+    work.
+  image: images/vip_sarah_2019.jpg
+  title: VIP Summer 2019
+
+- date: 7/3/2019
+  description: '**Dr. Carla Fernandez** will be jointly mentored by the BLAB and the
+    [Woldorff Lab at Duke](https://www.woldorfflab.org/) as a post-doctoral researcher.
+    The BLAB also welcomes **Irene Tang** , new lab manager, and **Sarp Uner** , new
+    lab technician.'
+  image: images/baby_labs2.jpeg
+  title: BLAB Welcomes New Members
+
+- date: 7/1/2019
+  description: BLAB members will be presenting two talks and two posters at BUCLD
+    2019 this November.
+  image: images/bucld.jpeg
+  title: BLAB at BUCLD 2019
+
+- date: 5/17/2019
+  description: PI **Elika Bergelson** received an NSF CAREER award to study language
+    development in blind infants and deaf infants. Congratulations, Dr. Bergelson!
+  image: images/NSF_career.jpg
+  title: CAREER Award
+
+- date: 4/10/2019
+  description: 'Graduate student **Charlotte Moore** and PI **Elika Bergelson** will
+    be presenting a talk titled "18-month-olds'' representations of vowels in regular
+    & irregular verbs: A mispronunciation study" in Potsdam, Germany in June.'
+  image: images/WILD2019.jpg
+  title: Workshop on Infant Language Development
+
+- date: 4/9/2019
+  description: Graduate student **Erin Campbell** is now a fellow in the NSF Graduate
+    Research Fellowship Program. Go, Erin!
+  image: images/nsfgradfellowship.jpg
+  title: GRFP Award
+
+- date: 11/27/2018
+  description: Former Bergelson Lab/Seedlings staff member **Sharath (Munna) Koorathota**
+    is starting an Master's degree in computer science at Columbia University, specializing
+    in AI and Machine Learning. Congrats, Munna!
+  image: images/munna-koorathota.jpg
+  title: Congratulations, Munna!
+
+- date: 10/22/2018
+  description: '**Dr. Federica Bulgarelli** and **Shannon Dailey** received the Paula
+    Menyuk Travel Award, Shannon received the Society for Language Development student
+    award, and undergraduate RAs **Sarah Yang** and **Katya Khlystova** received departmental
+    travel awards!'
+  image: images/bucld2018funding.jpg
+  title: 4 BLAB members received travel awards for BUCLD
+
+- date: 10/22/2018
+  description: Look out for the BLAB at BUCLD 2018! 9 BLAB members will be in attendance,
+    **Dr. Federica Bulgarelli** and **Shannon Dailey** will be giving talks, and **Dr.
+    Elika Bergelson** will be presenting a poster.
+  image: images/bucld.jpeg
+  title: BLAB presentations at BUCLD
+
+- date: 8/22/2018
+  description: '**Dr. Federica Bulgarelli** and **Dr. Stephan Meylan** are joining
+    the BLAB as post-doctoral researchers this fall. The BLAB also welcomes **Gladys
+    Baudet** , who will work as our lab technician.'
+  image: images/baby_labs.jpg
+  title: BLAB welcomes two post-docs and a new lab tech
+
+- date: 7/28/2018
+  description: BLAB members will be presenting two talks and a poster at [BUCLD 2018](https://www.bu.edu/bucld/)
+    this November.
+  image: images/bucld.jpeg
+  title: BLAB at BUCLD 2018
+
+- date: 4/22/2018
+  description: '**Dr. Bergelson** has been named the first Crandall Family Assistant
+    Professor by Duke’s Arts and Sciences, in conjunction withthe Duke Bass Connections’
+    Education and Human Development Theme. Congratulations, Dr. Bergelson!'
+  image: images/bergelson_photo_cropped_300dpi.png
+  title: Dr. Bergelson Named Crandall Family Assistant Professor
+
+- date: 4/9/2018
+  description: '**Dr. Bergelson** , along with Dr. Dan King (Duke Audiology) and Dr.
+    Sharon Freedman (Duke Ophthalmology & Pediatrics), has been awarded a pilot grant
+    by Duke’s ABC-Thrive for their project “Early Language Acquisition with Sensory
+    Impairment."'
+  image: images/abc-thrive.png
+  title: Grant to study early language acquisition with sensory impairment
+
+- date: 3/28/2018
+  description: The BLAB is excited to announce that **Erin Campbell** will be joining
+    us as a PhD student in the fall of 2018. Welcome, Erin!
+  image: images/duke_graduate_school.png
+  title: New graduate student Erin Campbell
+
+- date: 3/28/2018
+  description: BLAB technician extraordinaire **Andrei Amatuni** will be leaving us
+    to begin his PhD in Cognitive Science at Indiana University this fall. Congrats,
+    Andrei! We'll miss you!
+  image: images/iu.png
+  title: Lab Technician Andrei Amatuni starting PhD at IU
+
+- date: 2/21/18
+  description: The CANBLS research group, co-convened by PI **Elika Bergelson** and
+    colleagues, brings together researchers with varying approaches to studying language
+    and speech. Members of the BLAB attend monthly meetings to share and discuss research
+    that further explores the cognitive, auditory, and neural bases of language and
+    speech.
+  image: images/dibs_logo.jpg
+  title: Cognitive, Auditory, and Neural Bases of Language & Speech Research Group
+
+- date: 2/16/18
+  description: The BLAB has contributed to the First DIHARD Speech Diarization Challenge.
+    Preliminary results will be presented in late 2018.
+  image: images/bigdata.jpg
+  title: Speech Diarization Challenge
+
+- date: 2/12/17
+  description: BLAB member **Andrei Amatuni** was featured on the Duke Psychology
+    and Neuroscience website as Person of the Week! Check out the [P&N News Feed](https://psychandneuro.duke.edu/news/pn-person-week-andrei-amatuni)
+    to read about Andrei's work and interests.
+  image: images/amatuni.JPG
+  title: P&N Person of the Week
+
+- date: 9/29/17
+  description: Members of the BLAB are engaging in collaborative meetings with our
+    colleagues at UNC. Meetings provide faculty and graduate students a space to share
+    ideas and discuss work relevant to the topic of language acquisition. Sign up
+    [here](https://groups.google.com/forum/#!forum/duke-unc-language-acquisition-group)
+    to receive emails about future meetings.
+  image: images/duke-unc.jpg
+  title: Language Acquisition Group
+
+- date: 8/30/17
+  description: Graduate student **Shannon Dailey** recently had [a paper](http://rdcu.be/voHP)
+    on her undergraduate work on mindfulness meditation published in the journal *Mindfulness*
+    .
+  image: images/dailey-news.jpg
+  title: Paper published
+
+- date: 8/17/17
+  description: Graduate students **Shannon Dailey** and **Charlotte Moore** both won
+    a Paula Menyuk Travel Award for BUCLD 2017!
+  image: images/bucld.jpeg
+  title: BUCLD Travel Awards
+
+- date: 7/14/17
+  description: Today, the BLAB said "See you later" to our wonderful postdoc, **Catherine
+    Laing** . We wish you all the best, and know you'll do great things at Cardiff!
+  image: images/byeCL_news.JPG
+  title: See you later, Catherine!
+
+- date: 7/13/17
+  description: Congratulations to our VIP students this summer, **Estelle He** and
+    **Reena Jasani** , for doing a great job on their talks and poster presentations!
+  image: images/vip_posters_2017.jpg
+  title: Congrats, VIPs!
+
+- date: 7/11/17
+  description: BLAB members will be presenting two talks and three posters at [BUCLD
+    2017](https://www.bu.edu/bucld/conference-info/schedule/) this November.
+  image: images/bucld.jpeg
+  title: BLAB at BUCLD
+
+- date: 6/22/17
+  description: Look out for the BLAB at CDS 2017, with pre-conference and conference
+    talks by **Dr. Bergelson** !
+  image: images/cds.jpg
+  title: BLAB at CDS
+
+- date: 5/8/17
+  description: 'Congratulations to our postdoc, **Catherine Laing** , who recently
+    had a paper accepted to the *Journal of Experimental Child Psychology* ! Coming
+    soon: "A perceptual advantage for onomatopoeia in early word learning: Evidence
+    from eye-tracking."'
+  image: images/laing-news2.jpg
+  title: Paper Accepted
+
+- date: 5/8/17
+  description: Congratulations to our graduate student, **Charlotte Moore** , who
+    was recently awarded an SSHRC Doctoral fellowship!
+  image: images/sshrc.jpg
+  title: Grant award
+
+- date: 4/28/17
+  description: Congratulations to our graduate student, **Charlotte Moore** , who
+    finished up a great first year at Duke with her successful presentation at the
+    Department of Psychology & Neuroscience's first year festival!
+  image: images/moore-news.jpg
+  title: First Year Festival
+
+- date: 4/17/17
+  description: '**Dr. Bergelson** just had a paper accepted to *Language Learning
+    and Development* : Semantic Specificity in One-Year-Olds’ Word Comprehension,
+    Bergelson & Aslin, 2017.'
+  image: images/stockbaby_heart.jpg
+  title: Paper accepted
+
+- date: 4/15/17
+  description: Lab manager **Shannon Dailey** will be staying in the BLAB next year
+    as a graduate student! She will continue working with Dr. Bergelson as she begins
+    her PhD here at Duke this Fall.
+  image: images/duke.jpeg
+  title: Lab manager staying at Duke
+
+- date: 4/10/17
+  description: The BLAB has a 100% acceptance rate to CogSci! Lab technician **Andrei
+    Amatuni** and postdoc **Catherine Laing** were both accepted to the [Annual Meeting
+    of the Cognitive Science Society](http://www.cognitivesciencesociety.org/conference/cogsci2017/)
+    in London this July.
+  image: images/cogsci.jpg
+  title: BLAB at CogSci
+
+- date: 4/7/17
+  description: Lab manager **Shannon Dailey** gave a talk titled "Semantic Relatedness
+    Effects in Early Word Learning" at the [Society of Research in Cognitive Development's
+    2017 meeting](http://www.srcd.org/meetings/biennial-meeting) in Austin, TX.
+  image: images/srcd_logo.png
+  title: BLAB at SRCD
+
+- date: 3/29/17
+  description: PI **Dr. Elika Bergelson** is a grant pient of Trans-Atlantic Platform's
+    [Digging Into Data](https://diggingintodata.org/) Challenge Grant for the [Analyzing
+    Child Language Experiences around the World (ACLEW)](https://sites.google.com/view/aclewdid)
+    project. ACLEW will be studying child language development across cultures.
+  image: images/did-logo.gif
+  title: Digging Into Data Grant
+
+- date: 3/22/17
+  description: The BLAB will be featured in two Special Sessions at [Interspeech 2017](http://www.interspeech2017.org/program/special-session-descriptions/)
+    in Stockholm this August. The sessions focus on data collection and annotation
+    issues in child language acquisition research, and on a Computational Paralinguistics
+    ChallengE (ComParE).
+  image: images/Interspeech2017.jpg
+  title: BLAB at Interspeech
+
+- date: 3/22/17
+  description: Our postdoctoral researcher, **Dr. Catherine Laing** , has been appointed
+    as a Lecturer in the Department of Language and Communication at Cardiff University
+    in Wales. Beginning this summer, she will research and teach in the areas of child
+    language acquisition and phonetics and phonology. Congratulations, Dr. Laing!
+  image: images/cardiff.jpg
+  title: Postdoc going to Cardiff Univ
+
+- date: 3/9/17
+  description: 'PI **Dr. Elika Bergelson** is part of a consortium promoting best
+    practices in infancy research, called ManyBabies. Their paper ["A Collaborative
+    Approach to Infant Research: Promoting Reproducibility, Best Practices, and Theory-Building"](http://onlinelibrary.wiley.com/doi/10.1111/infa.12182/full)
+    was recently published in *Infancy* .'
+  image: images/manybabies.jpg
+  title: ManyBabies project
+
+- date: 12/8/16
+  description: Lab manager **Shannon Dailey** will give a talk titled "Semantic Relatedness
+    Effects in Early Word Learning" at [Society of Research in Cognitive Development's
+    2017 meeting](http://www.srcd.org/meetings/biennial-meeting) in Austin, TX.
+  image: images/srcd_logo.png
+  title: BLAB at SRCD
+
+- date: 11/10/2016
+  description: 'Postdoc **Dr. Catherine Laing** wrote an article for the Conversation
+    USA: ["Here''s why ''baby talk'' is good for your baby."](https://theconversation.com/heres-why-baby-talk-is-good-for-your-baby-68216)'
+  image: images/articleimage.jpg
+  title: Why "Baby Talk" is good for your baby
+
+- date: 11/1/16
+  description: Look out for lab alum **Tessa Eagle** 's honors thesis (poster) and
+    postdoc **Dr. Catherine Laing** 's PhD research (talk) at [BUCLD 2016](https://www.bu.edu/bucld/)
+    !
+  image: images/bucld.jpeg
+  title: Lab members at BUCLD
+
+- date: 10/19/16
+  description: Graduate student **Charlotte Moore** recently had [a paper published](http://www.ncbi.nlm.nih.gov/pubmed/27544643)
+    based on research she did during her Master's degree.
+  image: images/stockbaby_headphones.jpg
+  title: Charlotte's paper published
+
+- date: 8/9/2016
+  description: PI **Dr. Elika Bergelson** organized a [workshop on naturalistic language
+    acquisition data](https://sites.google.com/site/cogsci2016natlangacqdata/home)
+    at CogSci 2016 in Philadelphia, PA.
+  image: images/cogsci.jpg
+  title: CogSci workshop
+
+- date: 8/1/16
+  description: The Bergelson Lab has officially moved to Duke. Debate about when to
+    start trying to say 'y'all' ensues.
+  image: images/duke.jpeg
+  title: Bergelson Lab moves to Duke
+
+- date: 7/25/2016
+  description: After nearly two years, SEEDLingS longitudinal data collection is complete.
+    Not a single home or in-lab visit was missed!
+  image: images/rochester_baby_lab_logo.png
+  title: '[SEEDLingS data collection complete!](https://bergelsonlab.com/seedlings)'
