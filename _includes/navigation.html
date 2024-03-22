@@ -1,0 +1,20 @@
+<nav id="nav">
+    <ul>
+        {% for item in site.data.navigation %}
+        <!-- Navigation button with class "current" will be highlighted. Set group in pages' front matter -->
+        <li {% if page.group == item.title %} class = "current" {% endif %}>
+
+            <a {% if item.href %} href="{{ item.href }}" {% endif %}>{{item.title}}</a>
+
+            {% if item.sublinks %}
+            <ul>
+                {% for subitem in item.sublinks %}
+                <li><a href="{{ subitem.href }}">{{ subitem.title }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
