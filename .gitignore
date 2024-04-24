@@ -2,3 +2,4 @@
 .idea/
 /Gemfile.lock
 /_site/
+.Rproj.user
