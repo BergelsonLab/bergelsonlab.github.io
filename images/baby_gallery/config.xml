@@ -8,6 +8,22 @@
 	backgroundColor="rgba(255,255,255,1)"
 
 >
+    <image imageURL="images/IMG_8919.jpg"
+	thumbURL="thumbs/IMG_8919.jpg"
+	linkURL="images/IMG_8919.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/IMG_8919.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+    <image imageURL="images/IMG_8914.jpg"
+	thumbURL="thumbs/IMG_8914.jpg"
+	linkURL="images/IMG_8914.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/IMG_8914.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
   <image imageURL="images/07_1.jpg"
 	thumbURL="thumbs/07_1.jpg"
 	linkURL="images/07_1.jpg"
