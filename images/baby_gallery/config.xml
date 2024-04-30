@@ -8,6 +8,22 @@
 	backgroundColor="rgba(255,255,255,1)"
 
 >
+<image imageURL="images/20240419_122522.jpg"
+	thumbURL="thumbs/game_2.jpg"
+	linkURL="images/20240419_122522.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/20240419_122522.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>    
+<image imageURL="images/20240419_120917_720.jpg"
+	thumbURL="thumbs/game_study.jpg"
+	linkURL="images/20240419_120917_720.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/bergelsonlab/Desktop/Github/BergelsonLab/bergelsonlab.github.io/images/baby_gallery/images/20240419_120917_720.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
     <image imageURL="images/IMG_8919.jpg"
 	thumbURL="thumbs/IMG_8919.jpg"
 	linkURL="images/IMG_8919.jpg"
