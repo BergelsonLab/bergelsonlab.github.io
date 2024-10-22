@@ -10,6 +10,11 @@
 #   - Use https://www.yamllint.com/ to check your YAML (you can check just the item you added generally).
 #   - Read more about multiline strings in YAML: https://yaml-multiline.info/.
 
+- date: 8/26/24
+  description: 'The BLAB welcomes two incoming lab managers: Sophie, a recent graduate of Grinnell College, and Michika, a recent graduate of Wellesley College.'
+  image: images/doggos.jpg
+  title: Welcome Sophie and Michika!
+
 - date: 10/23
   description: '**Erin Campbell, PhD,** lab manager **Lilli Righter** , and grad student
   **Genia Lukin** head to MPAL 2023 to share two posters and a talk on blind children''s
